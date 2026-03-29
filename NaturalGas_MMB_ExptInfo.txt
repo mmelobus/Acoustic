@@ -1,0 +1,25 @@
+#### SECTION 1: Experiment Info
+Track Name       : NaturalGas_MMB
+Track ID         : 124acb5e-a540-4396-914d-cfc63fcca255
+Recording Start  : 2026-03-28 23:10:51
+Recording End    : 2026-03-28 23:11:23
+Recorded By      : Miguel Bustos
+Gas Used         : Natural Gas
+Noise Profile    : white
+Duration         : 32.00 s
+Sample Rate      : 16000 Hz
+N Samples        : 512000
+
+#### SECTION 2: Time Axis
+Time Start       : 0.000000 s
+Time End         : 31.999938 s
+Time Increment   : 0.00006250 s  (1/16000)
+
+#### SECTION 3: FFT Parameters
+Method           : Welch, Rectangular window, 75% overlap
+Freq Start       : 0.0 Hz
+Freq Increment   : 0.97656 Hz
+Freq Stop        : 8000 Hz
+FFT Points Setting: 16384
+Frequency Points : 8193
+Units            : dB
