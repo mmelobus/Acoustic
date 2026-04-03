@@ -1,4 +1,4 @@
-Gas,Calc_Trans J/mol*K,Calc_Rot J/mol*K,Calc_Vib J/mol*K,Calc_Cp J/mol*K,Calc_Cv J/mol*K,Calc_ratio,Mol_mass
+Gas,Calc_Trans J/mol*K,Calc_Rot J/mol*K,Calc_Vib J/mol*K,Calc_Cp J/mol*K,Calc_Cv J/mol*K,Calc_ratio,Mol_mass kg/mol
 N2O,20.79,8.31,10.82,39.92,31.606,1.263051319,0.04402
 CO2,20.79,8.31,10.51,39.61,31.296,1.265656953,0.04401
 O2,20.79,8.31,0.03,29.14,20.826,1.399212523,0.032
