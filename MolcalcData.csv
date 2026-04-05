@@ -1,0 +1,14 @@
+Gas,Calc_Trans J/mol*K,Calc_Rot J/mol*K,Calc_Vib J/mol*K,Calc_Cp J/mol*K
+N2O,20.79,8.31,10.82,39.92
+CO2,20.79,8.31,10.51,39.61
+O2,20.79,8.31,0.03,29.14
+N2,20.79,8.31,0,29.1
+Argon,20.79,0,0,20.79
+Methane,20.79,12.47,2.25,35.51
+Ethane,20.7,12.47,17.79,51.05
+Difluoromethane,20.7,12.47,11.07,44.33
+Difluoroethane,20.7,12.47,32.81,66.07
+"1,1,1,2-Tetrafluoroethane",20.7,12.47,50.63,83.89
+"2,3,3,3-Tetrafluoropropene",20.7,12.47,64.77,98.03
+Air,,,,29.035301
+NaturalGas95_5,,,,34.1673
